@@ -24,7 +24,6 @@ O diagrama MER foi desenvolvido no **brModelo**, seguindo boas práticas de mode
 - Regras de negócio: cada pedido possui ao menos um produto; CPF/CNPJ são únicos; histórico de preços.
 - Visões implementadas: clientes, capacidade de estoque por prateleira, saldo de produtos.
 
-📄 Documento completo: [mer_pedidos_documento.pdf](mer_pedidos_documento.pdf)
 
 # Banco de Dados NoSQL – Estudo Comparativo
 
@@ -43,7 +42,6 @@ Também compara os modelos **relacional (PostgreSQL)** e **NoSQL (MongoDB)**.
   - Transações e consistência.
   - Desempenho.
 
-📄 Documento completo: [Atividade24-09.pdf](Atividade24-09.pdf)
 
 
 
